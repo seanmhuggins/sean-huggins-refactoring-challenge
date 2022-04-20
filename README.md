@@ -1,4 +1,6 @@
 # sean-huggins-refactoring-challenge
+For this challenge we need to edit the html so that it is utilizing semantic tags instead of non-semantic tags.
+
 Changes Made:
    -I changed the first div tag with a header tag
    -I then changed all the other div tags within the header to section tags.
