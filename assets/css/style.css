@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-/* Changed all header divs to header sections*/
+/* Changed all header div tags to section tags*/
 
 .header section {
     padding-top: 15px;
